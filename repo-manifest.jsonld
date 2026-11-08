@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/treescope/commit/7a9f0e82c9c1c05577dd6f386f9ee48e4d7d3175",
       "git:hexsha": "7a9f0e82c9c1c05577dd6f386f9ee48e4d7d3175",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T08:59:07.780955+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/treescope/commit/c7e7d90a2236a4dd0e72c2bb82e6a890d0d8e748",
